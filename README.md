@@ -58,6 +58,9 @@ The **Automated Student Clearance System** transforms the traditional clearance 
 
 Thank you!
   
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
+## 📄 License
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
 
