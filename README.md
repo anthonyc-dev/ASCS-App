@@ -1,5 +1,5 @@
-<p align="centar">
-    <img src="https://ncmc.edu.ph/img/nav-old-logo.png" alt="NCMC">
+<p align="center">
+    <a><img src="https://ncmc.edu.ph/img/nav-old-logo.png" alt="NCMC"></a>
 </p>
 
 # Automated Student Clearance System (ASCS)
