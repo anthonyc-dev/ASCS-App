@@ -48,7 +48,16 @@ Clearing requirements manually has always been **stressful, slow, and prone to e
 - 😊 **Higher student satisfaction** through transparency and convenience.  
 
 ## 🌟 Conclusion
-The **Automated Student Clearance System** transforms the traditional clearance process into a **modern, efficient, and reliable digital workflow**. It ensures students, faculty, and administrators can focus on what truly matters—**education and growth—without being slowed down by outdated paperwork**.
+The **Automated Student Clearance System** transforms the traditional clearance process into a **modern, efficient, and reliable digital workflow**. It ensures students, faculty, and administrators can focus on what truly matters **education and growth without being slowed down by outdated paperwork**.
+
+## Author
+- Anthony Crausus
+- Salman Sultan
+- Hamdan Cawasa
+- Marjoe Bechayda
+
+Thank you!
+  
 
 
 
