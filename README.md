@@ -12,7 +12,6 @@ Download:
     
 # Automated Student Clearance System (ASCS)
 
-## 📌 Overview
 The **Automated Student Clearance System (ASCS)** is an innovative solution designed for the **College of Engineering and Computer Science (CECS) at North Central Mindanao College (NCMC)**. It replaces the outdated, paper-based clearance process with a **fast, secure, and user-friendly digital system** powered by **QR codes** and **real-time notifications**.
 
 
