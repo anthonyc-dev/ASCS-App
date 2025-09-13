@@ -2,8 +2,12 @@
     <a href="https://www.ncmc.edu.ph/"><img src="https://ncmc.edu.ph/img/nav-old-logo.png" alt="NCMC"></a>  
 </p>
 <p align="center">
-    <span>Automated Student Clearance System (ASCS)</span>
-</p>
+
+# ASCS-App V1.0.0
+
+Download:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/anthonyc-dev/ASCS-App/releases/download/v1.0.0/ASCS.App-v1.0.0.apk)
     
 # Automated Student Clearance System (ASCS)
 
@@ -46,9 +50,4 @@ Clearing requirements manually has always been **stressful, slow, and prone to e
 The **Automated Student Clearance System** transforms the traditional clearance process into a **modern, efficient, and reliable digital workflow**. It ensures students, faculty, and administrators can focus on what truly matters—**education and growth—without being slowed down by outdated paperwork**.
 
 
-# ASCS-App
-
-Download:
-
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/anthonyc-dev/ASCS-App/releases/download/v1.0.0/ASCS.App-v1.0.0.apk)
 
