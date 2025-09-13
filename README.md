@@ -1,3 +1,7 @@
+<p align="centar">
+    <img src="https://ncmc.edu.ph/img/nav-old-logo.png" alt="NCMC">
+</p>
+
 # Automated Student Clearance System (ASCS)
 
 ## 📌 Overview
