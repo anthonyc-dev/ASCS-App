@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 
-# ASCS-App v1.0.0
+# ASCS-App v1.0.0  [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 Download:
 
 [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/anthonyc-dev/ASCS-App/releases/download/v1.0.0/ASCS.App-v1.0.0.apk)
@@ -57,10 +57,8 @@ The **Automated Student Clearance System** transforms the traditional clearance 
 - Marjoe Bechayda
 
 Thank you!
-  
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE.md)
 
 ## 📄 License
-This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE.md) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
 
