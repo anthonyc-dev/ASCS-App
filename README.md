@@ -6,7 +6,7 @@
 # ASCS-App v1.0.0  [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 Download:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/anthonyc-dev/ASCS-App/releases/download/v1.0.0/ASCS-app-v1.0.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/anthonyc-dev/ASCS-App/releases/download/v1.0.0/ASCS-app.v1.0.0.apk)
 
 
     
